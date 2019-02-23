@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Config>
+  <SQLConn ConnLinkmode="SQL" ConnStrSplit="192.168.1.4^^sa^123456">Data Source=192.168.1.4;Initial catalog=master;Integrated Security=False;User ID=sa;Password=123456;</SQLConn>
+  <ConfigJson>{"Jdt":true,"Movetarget":"","Rf":1,"UHotkeys":[],"Xszt":null,"Xtb":true,"Yczt":null,"Zjm":null,"ZRun":false}</ConfigJson>
+</Config>

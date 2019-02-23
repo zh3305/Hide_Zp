@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Config>
+  <SQLConn ConnLinkmode="SQL" ConnStrSplit="^^^">
+  </SQLConn>
+  <ConfigJson>{"Jdt":true,"Movetarget":"","Rf":1,"UHotkeys":[],"Xszt":null,"Xtb":true,"Yczt":null,"Zjm":null,"ZRun":false}</ConfigJson>
+</Config>

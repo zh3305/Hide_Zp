@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SQL_DLL_Source/Properties/Resource.Designer.cs" ctype="Workbench">
+    <Files>
+      <File FileName="Hide_Zp_Source/HongHu/UI/Form1.cs" Line="17" Column="26" />
+      <File FileName="Hide_Zp_Source/HongHu/kuaijijian.cs" Line="16" Column="20" />
+      <File FileName="SQL_DLL_Source/Properties/Resource.Designer.cs" Line="79" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/media/F/系统/Desktop/我的一切/Hide_Zp/Hide_ZP/Hide_Zp_Source/HongHu/SqlDal.cs" line="139" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore" />
+</Properties>

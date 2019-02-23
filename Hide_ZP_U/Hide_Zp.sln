@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hide_Zp", "Hide_Zp_Source\Hide_Zp.csproj", "{CF65FC3F-3209-43C6-B5DE-F88F9FB3A488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL_DLL", "SQL_DLL_Source\SQL_DLL.csproj", "{866B101A-D7B7-40F9-9C92-6DC088CF7690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF65FC3F-3209-43C6-B5DE-F88F9FB3A488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF65FC3F-3209-43C6-B5DE-F88F9FB3A488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF65FC3F-3209-43C6-B5DE-F88F9FB3A488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF65FC3F-3209-43C6-B5DE-F88F9FB3A488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{866B101A-D7B7-40F9-9C92-6DC088CF7690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{866B101A-D7B7-40F9-9C92-6DC088CF7690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{866B101A-D7B7-40F9-9C92-6DC088CF7690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{866B101A-D7B7-40F9-9C92-6DC088CF7690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
